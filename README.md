@@ -6,6 +6,7 @@
 [![License badge](https://img.shields.io/badge/license-Apache2-green.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Support badge](https://img.shields.io/badge/support-sof-green.svg)](http://stackoverflow.com/questions/tagged/webdrivermanager-java)
 [![Twitter](https://img.shields.io/badge/follow-@boni_gg-green.svg)](https://twitter.com/boni_gg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpierrepinon%2Fwebdrivermanager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpierrepinon%2Fwebdrivermanager?ref=badge_shield)
 
 # WebDriverManager [![][Logo]][GitHub Repository]
 
@@ -438,3 +439,7 @@ WebDriverManager (Copyright &copy; 2015-2018) is a project created by [Boni Garc
 [Stack Overflow]: https://stackoverflow.com/questions/tagged/webdrivermanager-java
 [WebDriverManager Examples]: https://github.com/bonigarcia/webdrivermanager-examples
 [WebDriverManager issues]: https://github.com/bonigarcia/webdrivermanager/issues
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpierrepinon%2Fwebdrivermanager.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpierrepinon%2Fwebdrivermanager?ref=badge_large)
